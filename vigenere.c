@@ -89,5 +89,4 @@ int shift(char c)
         c = c - 97;
     }
     return c;
-   // TODO
 }
